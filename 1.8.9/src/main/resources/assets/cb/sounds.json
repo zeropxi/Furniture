@@ -1,0 +1,18 @@
+{
+    "block.blinds.open": {
+        "subtitle": "subtitle.cb.open_blinds",
+        "sounds": [ "cb:block/blinds/open" ]
+    },
+    "block.blinds.close": {
+        "subtitle": "subtitle.cb.close_blinds",
+        "sounds": [ "cb:block/blinds/close" ]
+    },
+    "block.trampoline.bounce": {
+        "subtitle": "subtitle.cb.trampoline_bounce",
+        "sounds": [ "cb:block/trampoline/bounce" ]
+    },
+    "block.diving_board.bounce": {
+        "subtitle": "subtitle.cb.diving_board.bounce",
+        "sounds": [ "cb:block/diving_board/bounce" ]
+    }
+}

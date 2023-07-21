@@ -1,0 +1,10 @@
+[{
+  "modid": "cb",
+  "name": "Möbel",
+  "description": "MysteryMods Möbel, nur ohne MysteryMod\nhttps://discord.gg/ckNt8p9zrq",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://kurzelinks.de/moebel-url",
+  "authorList": ["zer0pxl"],
+  "logoFile": "assets/cb/icon.png"
+}]

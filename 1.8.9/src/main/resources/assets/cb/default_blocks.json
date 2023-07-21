@@ -1,0 +1,6807 @@
+[
+	{
+		"id": 0,
+		"key": "oak_table",
+		"name": "Eichenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 1,
+		"key": "spruce_table",
+		"name": "Fichtenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 2,
+		"key": "birch_table",
+		"name": "Birkenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 3,
+		"key": "jungle_table",
+		"name": "Tropenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 4,
+		"key": "acacia_table",
+		"name": "Akazienholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 5,
+		"key": "dark_oak_table",
+		"name": "Schwarzeichenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 6,
+		"key": "stone_table",
+		"name": "Steintisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 7,
+		"key": "granite_table",
+		"name": "Granittisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 8,
+		"key": "diorite_table",
+		"name": "Diorittisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 9,
+		"key": "andesite_table",
+		"name": "Andesittisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 10,
+		"key": "stripped_oak_table",
+		"name": "Entrindeter Eichenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 11,
+		"key": "stripped_spruce_table",
+		"name": "Entrindeter Fichtenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 12,
+		"key": "stripped_birch_table",
+		"name": "Entrindeter Birkenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 13,
+		"key": "stripped_jungle_table",
+		"name": "Entrindeter Tropenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 14,
+		"key": "stripped_acacia_table",
+		"name": "Entrindeter Akazienholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 15,
+		"key": "stripped_dark_oak_table",
+		"name": "Entrindeter Schwarzeichenholztisch",
+		"blockClass": "type.InfiniteExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 16,
+		"key": "oak_chair",
+		"name": "Eichenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 17,
+		"key": "spruce_chair",
+		"name": "Fichtenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 18,
+		"key": "birch_chair",
+		"name": "Birkenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 19,
+		"key": "jungle_chair",
+		"name": "Tropenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 20,
+		"key": "acacia_chair",
+		"name": "Akazienholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 21,
+		"key": "dark_oak_chair",
+		"name": "Schwarzeichenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 22,
+		"key": "stone_chair",
+		"name": "Steinstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 23,
+		"key": "granite_chair",
+		"name": "Granitstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 24,
+		"key": "diorite_chair",
+		"name": "Dioritstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 25,
+		"key": "andesite_chair",
+		"name": "Andesitstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 26,
+		"key": "stripped_oak_chair",
+		"name": "Entrindeter Eichenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 27,
+		"key": "stripped_spruce_chair",
+		"name": "Entrindeter Fichtenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 28,
+		"key": "stripped_birch_chair",
+		"name": "Entrindeter Birkenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 29,
+		"key": "stripped_jungle_chair",
+		"name": "Entrindeter Tropenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 30,
+		"key": "stripped_acacia_chair",
+		"name": "Entrindeter Akazienholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 31,
+		"key": "stripped_dark_oak_chair",
+		"name": "Entrindeter Schwarzeichenholzstuhl",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 32,
+		"key": "oak_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Eichenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 33,
+		"key": "spruce_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Fichtenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 34,
+		"key": "birch_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Birkenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 35,
+		"key": "jungle_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Tropenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 36,
+		"key": "acacia_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Akazienholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 37,
+		"key": "dark_oak_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Schwarzeichenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 38,
+		"key": "stone_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Stein-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 39,
+		"key": "granite_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Granit-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 40,
+		"key": "diorite_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Diorit-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 41,
+		"key": "andesite_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Andesit-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 42,
+		"key": "stripped_oak_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Eichenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 43,
+		"key": "stripped_spruce_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Fichtenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 44,
+		"key": "stripped_birch_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Birkenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 45,
+		"key": "stripped_jungle_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Tropenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 46,
+		"key": "stripped_acacia_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Akazienholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 47,
+		"key": "stripped_dark_oak_coffee_table",
+		"versionBlockClass": "CoffeeTableVersionBlock",
+		"name": "Entrindeter Schwarzeichenholz-Kaffeetisch",
+		"blockClass": "small.CoffeeTableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 48,
+		"key": "oak_cabinet",
+		"name": "Eichenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 49,
+		"key": "spruce_cabinet",
+		"name": "Fichtenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 50,
+		"key": "birch_cabinet",
+		"name": "Birkenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 51,
+		"key": "jungle_cabinet",
+		"name": "Tropenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 52,
+		"key": "acacia_cabinet",
+		"name": "Akazienholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 53,
+		"key": "dark_oak_cabinet",
+		"name": "Schwarzeichenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 54,
+		"key": "stone_cabinet",
+		"name": "Steinschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 55,
+		"key": "granite_cabinet",
+		"name": "Granitschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 56,
+		"key": "diorite_cabinet",
+		"name": "Dioritschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 57,
+		"key": "andesite_cabinet",
+		"name": "Andesitschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 58,
+		"key": "stripped_oak_cabinet",
+		"name": "Entrindeter Eichenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 59,
+		"key": "stripped_spruce_cabinet",
+		"name": "Entrindeter Fichtenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 60,
+		"key": "stripped_birch_cabinet",
+		"name": "Entrindeter Birkenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 61,
+		"key": "stripped_jungle_cabinet",
+		"name": "Entrindeter Tropenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 62,
+		"key": "stripped_acacia_cabinet",
+		"name": "Entrindeter Akazienholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 63,
+		"key": "stripped_dark_oak_cabinet",
+		"name": "Entrindeter Schwarzeichenholzschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 64,
+		"key": "oak_bedside_cabinet",
+		"name": "Eichenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 65,
+		"key": "spruce_bedside_cabinet",
+		"name": "Fichtenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 66,
+		"key": "birch_bedside_cabinet",
+		"name": "Birkenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 67,
+		"key": "jungle_bedside_cabinet",
+		"name": "Tropenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 68,
+		"key": "acacia_bedside_cabinet",
+		"name": "Akazienholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 69,
+		"key": "dark_oak_bedside_cabinet",
+		"name": "Schwarzeichenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 70,
+		"key": "stone_bedside_cabinet",
+		"name": "Stein-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 71,
+		"key": "granite_bedside_cabinet",
+		"name": "Granit-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 72,
+		"key": "diorite_bedside_cabinet",
+		"name": "Diorit-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 73,
+		"key": "andesite_bedside_cabinet",
+		"name": "Andesit-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 74,
+		"key": "stripped_oak_bedside_cabinet",
+		"name": "Entrindeter Eichenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 75,
+		"key": "stripped_spruce_bedside_cabinet",
+		"name": "Entrindeter Fichtenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 76,
+		"key": "stripped_birch_bedside_cabinet",
+		"name": "Entrindeter Birkenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 77,
+		"key": "stripped_jungle_bedside_cabinet",
+		"name": "Entrindeter Tropenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 78,
+		"key": "stripped_acacia_bedside_cabinet",
+		"name": "Entrindeter Akazienholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 79,
+		"key": "stripped_dark_oak_bedside_cabinet",
+		"name": "Entrindeter Schwarzeichenholz-Nachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 80,
+		"key": "oak_desk",
+		"name": "Eichenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 81,
+		"key": "spruce_desk",
+		"name": "Fichtenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "BIRCH",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 82,
+		"key": "birch_desk",
+		"name": "Birkenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "SPRUCE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 83,
+		"key": "jungle_desk",
+		"name": "Tropenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "JUNGLE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 84,
+		"key": "acacia_desk",
+		"name": "Akazienholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "ACACIA",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 85,
+		"key": "dark_oak_desk",
+		"name": "Schwarzeichenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "DARK_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 86,
+		"key": "stone_desk",
+		"name": "Stein-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "STONE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 87,
+		"key": "granite_desk",
+		"name": "Granit-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "GRANITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 88,
+		"key": "diorite_desk",
+		"name": "Diorit-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "DIORITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 89,
+		"key": "andesite_desk",
+		"name": "Andesit-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "ANDESITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 90,
+		"key": "stripped_oak_desk",
+		"name": "Entrindeter Eichenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 91,
+		"key": "stripped_spruce_desk",
+		"name": "Entrindeter Fichtenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_BIRCH",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 92,
+		"key": "stripped_birch_desk",
+		"name": "Entrindeter Birkenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_SPRUCE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 93,
+		"key": "stripped_jungle_desk",
+		"name": "Entrindeter Tropenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_JUNGLE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 94,
+		"key": "stripped_acacia_desk",
+		"name": "Entrindeter Akazienholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_ACACIA",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 95,
+		"key": "stripped_dark_oak_desk",
+		"name": "Entrindeter Schwarzeichenholz-Schreibtisch",
+		"blockClass": "office.DeskBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_DARK_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 96,
+		"key": "oak_desk_cabinet",
+		"name": "Eichenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 97,
+		"key": "spruce_desk_cabinet",
+		"name": "Fichtenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "BIRCH",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 98,
+		"key": "birch_desk_cabinet",
+		"name": "Birkenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "SPRUCE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 99,
+		"key": "jungle_desk_cabinet",
+		"name": "Tropenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "JUNGLE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 100,
+		"key": "acacia_desk_cabinet",
+		"name": "Akazienholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "ACACIA",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 101,
+		"key": "dark_oak_desk_cabinet",
+		"name": "Schwarzeichenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "DARK_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 102,
+		"key": "stone_desk_cabinet",
+		"name": "Stein-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "STONE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 103,
+		"key": "granite_desk_cabinet",
+		"name": "Granit-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "GRANITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 104,
+		"key": "diorite_desk_cabinet",
+		"name": "Diorit-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "DIORITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 105,
+		"key": "andesite_desk_cabinet",
+		"name": "Andesit-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"type": "ANDESITE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 106,
+		"key": "stripped_oak_desk_cabinet",
+		"name": "Entrindeter Eichenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 107,
+		"key": "stripped_spruce_desk_cabinet",
+		"name": "Entrindeter Fichtenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_BIRCH",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 108,
+		"key": "stripped_birch_desk_cabinet",
+		"name": "Entrindeter Birkenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_SPRUCE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 109,
+		"key": "stripped_jungle_desk_cabinet",
+		"name": "Entrindeter Tropenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_JUNGLE",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 110,
+		"key": "stripped_acacia_desk_cabinet",
+		"name": "Entrindeter Akazienholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_ACACIA",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 111,
+		"key": "stripped_dark_oak_desk_cabinet",
+		"name": "Entrindeter Schwarzeichenholz-Schreibtischschrank",
+		"blockClass": "office.DeskCabinetBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"type": "STRIPPED_DARK_OAK",
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 112,
+		"key": "white_sofa",
+		"name": "Weißes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "SNOW",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 113,
+		"key": "orange_sofa",
+		"name": "Oranges Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "ADOBE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 114,
+		"key": "magenta_sofa",
+		"name": "Magenta Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "MAGENTA",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 115,
+		"key": "light_blue_sofa",
+		"name": "Hellblaues Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "LIGHT_BLUE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 116,
+		"key": "yellow_sofa",
+		"name": "Gelbes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "YELLOW",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 117,
+		"key": "lime_sofa",
+		"name": "Hellgrünes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "LIME",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 118,
+		"key": "pink_sofa",
+		"name": "Rosanes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "PINK",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 119,
+		"key": "gray_sofa",
+		"name": "Graues Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "GRAY",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 120,
+		"key": "light_gray_sofa",
+		"name": "Hellgraues Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "LIGHT_GRAY",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 121,
+		"key": "cyan_sofa",
+		"name": "Türkises Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "CYAN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 122,
+		"key": "purple_sofa",
+		"name": "Violettes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "PURPLE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 123,
+		"key": "blue_sofa",
+		"name": "Blaues Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "BLUE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 124,
+		"key": "brown_sofa",
+		"name": "Braunes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "BROWN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 125,
+		"key": "green_sofa",
+		"name": "Grünes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "GREEN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 126,
+		"key": "red_sofa",
+		"name": "Rotes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "RED",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 127,
+		"key": "black_sofa",
+		"name": "Schwarzes Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "BLACK",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 128,
+		"key": "rainbow_sofa",
+		"name": "Regenbogen-Sofa",
+		"blockClass": "type.CornerExtensionBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "SNOW",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 129,
+		"key": "oak_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Eichenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 130,
+		"key": "spruce_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Fichtenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 131,
+		"key": "birch_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Birkenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 132,
+		"key": "jungle_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Tropenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 133,
+		"key": "acacia_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Akazienholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 134,
+		"key": "dark_oak_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Schwarzeichenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 135,
+		"key": "stripped_oak_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Eichenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 136,
+		"key": "stripped_spruce_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Fichtenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 137,
+		"key": "stripped_birch_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Birkenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 138,
+		"key": "stripped_jungle_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Tropenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 139,
+		"key": "stripped_acacia_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Akazienholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 140,
+		"key": "stripped_dark_oak_blinds",
+		"versionBlockClass": "BlindsVersionBlock",
+		"name": "Entrindeter Schwarzeichenholzjalousie",
+		"blockClass": "small.BlindsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 141,
+		"key": "oak_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Eichenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 142,
+		"key": "spruce_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Fichtenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 143,
+		"key": "birch_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Birkenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 144,
+		"key": "jungle_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Tropenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 145,
+		"key": "acacia_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Akazienholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 146,
+		"key": "dark_oak_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Schwarzeichenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 147,
+		"key": "stripped_oak_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Eichenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 148,
+		"key": "stripped_spruce_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Fichtenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 149,
+		"key": "stripped_birch_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Birkenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 150,
+		"key": "stripped_jungle_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Tropenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 151,
+		"key": "stripped_acacia_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Akazienholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 152,
+		"key": "stripped_dark_oak_upgraded_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Entrindeter Schwarzeichenholzzaun (Erweitert)",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 153,
+		"key": "oak_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Eichenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 154,
+		"key": "spruce_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Fichtenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 155,
+		"key": "birch_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Birkenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 156,
+		"key": "jungle_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Tropenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 157,
+		"key": "acacia_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Akazienholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 158,
+		"key": "dark_oak_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Schwarzeichenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 159,
+		"key": "stripped_oak_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Eichenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 160,
+		"key": "stripped_spruce_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Fichtenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 161,
+		"key": "stripped_birch_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Birkenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 162,
+		"key": "stripped_jungle_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Tropenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 163,
+		"key": "stripped_acacia_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Akazienholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 164,
+		"key": "stripped_dark_oak_upgraded_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Entrindetes Schwarzeichenholztor (Erweitert)",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 165,
+		"key": "white_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Weißer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "SNOW",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 166,
+		"key": "orange_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Oranger Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "ADOBE",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 167,
+		"key": "magenta_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Magenta Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "MAGENTA",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 168,
+		"key": "light_blue_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Hellblauer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIGHT_BLUE",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 169,
+		"key": "yellow_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Gelber Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "YELLOW",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 170,
+		"key": "lime_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Hellgrüner Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIME",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 171,
+		"key": "pink_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Rosaner Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "PINK",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 172,
+		"key": "gray_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Grauer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "GRAY",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 173,
+		"key": "light_gray_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Hellgrauer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIGHT_GRAY",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 174,
+		"key": "cyan_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Türkiser Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "CYAN",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 175,
+		"key": "purple_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Violetter Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "PURPLE",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 176,
+		"key": "blue_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Blauer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BLUE",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 177,
+		"key": "brown_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Brauner Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BROWN",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 178,
+		"key": "green_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Grüner Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "GREEN",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 179,
+		"key": "red_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Roter Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "RED",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 180,
+		"key": "black_picket_fence",
+		"versionBlockClass": "UpgradedFenceVersionBlock",
+		"name": "Schwarzer Gartenzaun",
+		"blockClass": "fence.UpgradedFenceBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BLACK",
+			"hardness": "FENCE",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 181,
+		"key": "white_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Weißes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "SNOW",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 182,
+		"key": "orange_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Oranges Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "ADOBE",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 183,
+		"key": "magenta_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Magenta Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "MAGENTA",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 184,
+		"key": "light_blue_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Hellblaues Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIGHT_BLUE",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 185,
+		"key": "yellow_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Gelbes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "YELLOW",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 186,
+		"key": "lime_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Hellgrünes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIME",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 187,
+		"key": "pink_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Rosanes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "PINK",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 188,
+		"key": "gray_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Graues Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "GRAY",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 189,
+		"key": "light_gray_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Hellgraues Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "LIGHT_GRAY",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 190,
+		"key": "cyan_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Türkises Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "CYAN",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 191,
+		"key": "purple_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Violettes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "PURPLE",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 192,
+		"key": "blue_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Blaues Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BLUE",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 193,
+		"key": "brown_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Braunes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BROWN",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 194,
+		"key": "green_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Grünes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "GREEN",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 195,
+		"key": "red_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Rotes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "RED",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 196,
+		"key": "black_picket_gate",
+		"versionBlockClass": "UpgradedGateVersionBlock",
+		"name": "Schwarzes Gartenzauntor",
+		"blockClass": "fence.UpgradedGateBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "BLACK",
+			"hardness": "FENCE_GATE",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 197,
+		"key": "oak_crate",
+		"name": "Eichenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 198,
+		"key": "spruce_crate",
+		"name": "Fichtenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 199,
+		"key": "birch_crate",
+		"name": "Birkenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 200,
+		"key": "jungle_crate",
+		"name": "Tropenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 201,
+		"key": "acacia_crate",
+		"name": "Akazienholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 202,
+		"key": "dark_oak_crate",
+		"name": "Schwarzeichenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 203,
+		"key": "stripped_oak_crate",
+		"name": "Entrindete Eichenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 204,
+		"key": "stripped_spruce_crate",
+		"name": "Entrindete Fichtenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 205,
+		"key": "stripped_birch_crate",
+		"name": "Entrindete Birkenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 206,
+		"key": "stripped_jungle_crate",
+		"name": "Entrindete Tropenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 207,
+		"key": "stripped_acacia_crate",
+		"name": "Entrindete Akazienholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 208,
+		"key": "stripped_dark_oak_crate",
+		"name": "Entrindete Schwarzeichenholz-Kiste",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 209,
+		"key": "oak_park_bench",
+		"name": "Eichenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 210,
+		"key": "spruce_park_bench",
+		"name": "Fichtenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 211,
+		"key": "birch_park_bench",
+		"name": "Birkenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 212,
+		"key": "jungle_park_bench",
+		"name": "Tropenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 213,
+		"key": "acacia_park_bench",
+		"name": "Akazienholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 214,
+		"key": "dark_oak_park_bench",
+		"name": "Schwarzeichenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 215,
+		"key": "stripped_oak_park_bench",
+		"name": "Entrindete Eichenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 216,
+		"key": "stripped_spruce_park_bench",
+		"name": "Entrindete Fichtenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 217,
+		"key": "stripped_birch_park_bench",
+		"name": "Entrindete Birkenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 218,
+		"key": "stripped_jungle_park_bench",
+		"name": "Entrindete Tropenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 219,
+		"key": "stripped_acacia_park_bench",
+		"name": "Entrindete Akazienholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 220,
+		"key": "stripped_dark_oak_park_bench",
+		"name": "Entrindete Schwarzeichenholz-Parkbank",
+		"blockClass": "type.HorizontalExtensionBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 221,
+		"key": "post_box",
+		"name": "Postkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "ANVIL",
+			"materialColor": "IRON",
+			"soundType": "ANVIL",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 222,
+		"key": "oak_mail_box",
+		"name": "Eichenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 223,
+		"key": "spruce_mail_box",
+		"name": "Fichtenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "OBSIDIAN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 224,
+		"key": "birch_mail_box",
+		"name": "Birkenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "SAND",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 225,
+		"key": "jungle_mail_box",
+		"name": "Tropenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "DIRT",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 226,
+		"key": "acacia_mail_box",
+		"name": "Akazienholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "ADOBE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 227,
+		"key": "dark_oak_mail_box",
+		"name": "Schwarzeichenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "BROWN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 228,
+		"key": "stripped_oak_mail_box",
+		"name": "Entrindeter Eichenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 229,
+		"key": "stripped_spruce_mail_box",
+		"name": "Entrindeter Fichtenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "OBSIDIAN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 230,
+		"key": "stripped_birch_mail_box",
+		"name": "Entrindeter Birkenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "SAND",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 231,
+		"key": "stripped_jungle_mail_box",
+		"name": "Entrindeter Tropenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "DIRT",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 232,
+		"key": "stripped_acacia_mail_box",
+		"name": "Entrindeter Akazienholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "ADOBE",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 233,
+		"key": "stripped_dark_oak_mail_box",
+		"name": "Entrindeter Schwarzeichenholz-Briefkasten",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "BROWN",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 234,
+		"key": "oak_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Eichenholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 235,
+		"key": "spruce_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Fichtenholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 236,
+		"key": "birch_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Birkenholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 237,
+		"key": "jungle_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Tropenholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 238,
+		"key": "acacia_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Akazienholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 239,
+		"key": "dark_oak_hedge",
+		"versionBlockClass": "HedgeVersionBlock",
+		"name": "Schwarzeichenholzhecke",
+		"blockClass": "small.HedgeBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT"
+		}
+	},
+	{
+		"id": 240,
+		"key": "rock_path",
+		"name": "Steinweg",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"hardness": "CARPET",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 241,
+		"key": "white_trampoline",
+		"name": "Weißes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 242,
+		"key": "orange_trampoline",
+		"name": "Oranges Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 243,
+		"key": "magenta_trampoline",
+		"name": "Magenta Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 244,
+		"key": "light_blue_trampoline",
+		"name": "Hellblaues Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 245,
+		"key": "yellow_trampoline",
+		"name": "Gelbes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 246,
+		"key": "lime_trampoline",
+		"name": "Hellgrünes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 247,
+		"key": "pink_trampoline",
+		"name": "Rosanes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 248,
+		"key": "gray_trampoline",
+		"name": "Graues Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 249,
+		"key": "light_gray_trampoline",
+		"name": "Hellgraues Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 250,
+		"key": "cyan_trampoline",
+		"name": "Türkises Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 251,
+		"key": "purple_trampoline",
+		"name": "Violettes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 252,
+		"key": "blue_trampoline",
+		"name": "Blaues Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 253,
+		"key": "brown_trampoline",
+		"name": "Braunes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 254,
+		"key": "green_trampoline",
+		"name": "Grünes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 255,
+		"key": "red_trampoline",
+		"name": "Rotes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 256,
+		"key": "black_trampoline",
+		"name": "Schwarzes Trampolin",
+		"blockClass": "general.TrampolineBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE"
+		}
+	},
+	{
+		"id": 257,
+		"key": "white_cooler",
+		"name": "Weiße Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 258,
+		"key": "orange_cooler",
+		"name": "Orange Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 259,
+		"key": "magenta_cooler",
+		"name": "Magenta Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 260,
+		"key": "light_blue_cooler",
+		"name": "Hellblaue Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 261,
+		"key": "yellow_cooler",
+		"name": "Gelbe Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 262,
+		"key": "lime_cooler",
+		"name": "Hellgrüne Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 263,
+		"key": "pink_cooler",
+		"name": "Rosane Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 264,
+		"key": "gray_cooler",
+		"name": "Graue Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 265,
+		"key": "light_gray_cooler",
+		"name": "Hellgraue Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 266,
+		"key": "cyan_cooler",
+		"name": "Türkise Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 267,
+		"key": "purple_cooler",
+		"name": "Violette Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 268,
+		"key": "blue_cooler",
+		"name": "Blaue Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 269,
+		"key": "brown_cooler",
+		"name": "Braune Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 270,
+		"key": "green_cooler",
+		"name": "Grüne Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 271,
+		"key": "red_cooler",
+		"name": "Rote Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 272,
+		"key": "black_cooler",
+		"name": "Schwarze Kühlbox",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true,
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 273,
+		"key": "white_grill",
+		"name": "Weißer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 274,
+		"key": "orange_grill",
+		"name": "Oranger Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 275,
+		"key": "magenta_grill",
+		"name": "Magenta Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 276,
+		"key": "light_blue_grill",
+		"name": "Hellblauer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 277,
+		"key": "yellow_grill",
+		"name": "Gelber Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 278,
+		"key": "lime_grill",
+		"name": "Hellgrüner Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 279,
+		"key": "pink_grill",
+		"name": "Rosa Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 280,
+		"key": "gray_grill",
+		"name": "Grauer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 281,
+		"key": "light_gray_grill",
+		"name": "Hellgrauer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 282,
+		"key": "cyan_grill",
+		"name": "Türkiser Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 283,
+		"key": "purple_grill",
+		"name": "Violetter Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 284,
+		"key": "blue_grill",
+		"name": "Blauer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 285,
+		"key": "brown_grill",
+		"name": "Brauner Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 286,
+		"key": "green_grill",
+		"name": "Grüner Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 287,
+		"key": "red_grill",
+		"name": "Roter Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 288,
+		"key": "black_grill",
+		"name": "Schwarzer Grill",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE_ORIGINAL",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 289,
+		"key": "door_mat",
+		"versionBlockClass": "DoorMatVersionBlock",
+		"name": "Türmatte",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOL",
+			"materialColor": "SNOW",
+			"hardness": "CARPET",
+			"soundType": "CLOTH",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 290,
+		"key": "diving_board",
+		"versionBlockClass": "DivingBoardVersionBlock",
+		"name": "Sprungbrett",
+		"blockClass": "multi.DivingBoardBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"waterlogged": true
+		}
+	},
+	{
+		"id": 291,
+		"key": "oak_kitchen_counter",
+		"name": "Eichenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 292,
+		"key": "spruce_kitchen_counter",
+		"name": "Fichtenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 293,
+		"key": "birch_kitchen_counter",
+		"name": "Birkenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 294,
+		"key": "jungle_kitchen_counter",
+		"name": "Tropenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 295,
+		"key": "acacia_kitchen_counter",
+		"name": "Akazienholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 296,
+		"key": "dark_oak_kitchen_counter",
+		"name": "Schwarzeichenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 297,
+		"key": "stripped_oak_kitchen_counter",
+		"name": "Entrindeter Eichenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 298,
+		"key": "stripped_spruce_kitchen_counter",
+		"name": "Entrindeter Fichtenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 299,
+		"key": "stripped_birch_kitchen_counter",
+		"name": "Entrindeter Birkenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 300,
+		"key": "stripped_jungle_kitchen_counter",
+		"name": "Entrindeter Tropenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 301,
+		"key": "stripped_acacia_kitchen_counter",
+		"name": "Entrindeter Akazienholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 302,
+		"key": "stripped_dark_oak_kitchen_counter",
+		"name": "Entrindeter Schwarzeichenholz-Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 303,
+		"key": "white_kitchen_counter",
+		"name": "Weißer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 304,
+		"key": "orange_kitchen_counter",
+		"name": "Oranger Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 305,
+		"key": "magenta_kitchen_counter",
+		"name": "Magenta Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 306,
+		"key": "light_blue_kitchen_counter",
+		"name": "Hellblauer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 307,
+		"key": "yellow_kitchen_counter",
+		"name": "Gelber Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 308,
+		"key": "lime_kitchen_counter",
+		"name": "Hellgrüner Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 309,
+		"key": "pink_kitchen_counter",
+		"name": "Rosa Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 310,
+		"key": "gray_kitchen_counter",
+		"name": "Grauer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 311,
+		"key": "light_gray_kitchen_counter",
+		"name": "Hellgrauer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 312,
+		"key": "cyan_kitchen_counter",
+		"name": "Türkiser Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 313,
+		"key": "purple_kitchen_counter",
+		"name": "Violetter Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 314,
+		"key": "blue_kitchen_counter",
+		"name": "Blauer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 315,
+		"key": "brown_kitchen_counter",
+		"name": "Brauner Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 316,
+		"key": "green_kitchen_counter",
+		"name": "Grüner Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 317,
+		"key": "red_kitchen_counter",
+		"name": "Roter Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 318,
+		"key": "black_kitchen_counter",
+		"name": "Schwarzer Küchentisch",
+		"blockClass": "kitchen.KitchenCounterBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD"
+		}
+	},
+	{
+		"id": 319,
+		"key": "oak_kitchen_drawer",
+		"name": "Eichenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 320,
+		"key": "spruce_kitchen_drawer",
+		"name": "Fichtenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 321,
+		"key": "birch_kitchen_drawer",
+		"name": "Birkenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 322,
+		"key": "jungle_kitchen_drawer",
+		"name": "Tropenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 323,
+		"key": "acacia_kitchen_drawer",
+		"name": "Akazienholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 324,
+		"key": "dark_oak_kitchen_drawer",
+		"name": "Schwarzeichenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 325,
+		"key": "stripped_oak_kitchen_drawer",
+		"name": "Entrindete Eichenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 326,
+		"key": "stripped_spruce_kitchen_drawer",
+		"name": "Entrindete Fichtenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 327,
+		"key": "stripped_birch_kitchen_drawer",
+		"name": "Entrindete Birkenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 328,
+		"key": "stripped_jungle_kitchen_drawer",
+		"name": "Entrindete Tropenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 329,
+		"key": "stripped_acacia_kitchen_drawer",
+		"name": "Entrindete Akazienholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 330,
+		"key": "stripped_dark_oak_kitchen_drawer",
+		"name": "Entrindete Schwarzeichenholz-Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 331,
+		"key": "white_kitchen_drawer",
+		"name": "Weiße Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 332,
+		"key": "orange_kitchen_drawer",
+		"name": "Orange Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 333,
+		"key": "magenta_kitchen_drawer",
+		"name": "Magenta Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 334,
+		"key": "light_blue_kitchen_drawer",
+		"name": "Hellblaue Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 335,
+		"key": "yellow_kitchen_drawer",
+		"name": "Gelbe Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 336,
+		"key": "lime_kitchen_drawer",
+		"name": "Hellgrüne Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 337,
+		"key": "pink_kitchen_drawer",
+		"name": "Rosane Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 338,
+		"key": "gray_kitchen_drawer",
+		"name": "Graue Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 339,
+		"key": "light_gray_kitchen_drawer",
+		"name": "Hellgraue Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 340,
+		"key": "cyan_kitchen_drawer",
+		"name": "Türkise Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 341,
+		"key": "purple_kitchen_drawer",
+		"name": "Violette Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 342,
+		"key": "blue_kitchen_drawer",
+		"name": "Blaue Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 343,
+		"key": "brown_kitchen_drawer",
+		"name": "Braune Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 344,
+		"key": "green_kitchen_drawer",
+		"name": "Grüne Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 345,
+		"key": "red_kitchen_drawer",
+		"name": "Rote Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 346,
+		"key": "black_kitchen_drawer",
+		"name": "Schwarze Küchenschublade",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 347,
+		"key": "oak_kitchen_sink_light",
+		"name": "Eichenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 348,
+		"key": "spruce_kitchen_sink_light",
+		"name": "Fichtenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 349,
+		"key": "birch_kitchen_sink_light",
+		"name": "Birkenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 350,
+		"key": "jungle_kitchen_sink_light",
+		"name": "Tropenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 351,
+		"key": "acacia_kitchen_sink_light",
+		"name": "Akazienholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 352,
+		"key": "dark_oak_kitchen_sink_light",
+		"name": "Schwarzeichenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 353,
+		"key": "stripped_oak_kitchen_sink_light",
+		"name": "Entrindetes Eichenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 354,
+		"key": "stripped_spruce_kitchen_sink_light",
+		"name": "Entrindetes Fichtenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 355,
+		"key": "stripped_birch_kitchen_sink_light",
+		"name": "Entrindetes Birkenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 356,
+		"key": "stripped_jungle_kitchen_sink_light",
+		"name": "Entrindetes Tropenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 357,
+		"key": "stripped_acacia_kitchen_sink_light",
+		"name": "Entrindetes Akazienholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 358,
+		"key": "stripped_dark_oak_kitchen_sink_light",
+		"name": "Entrindetes Schwarzeichenholz-Spülbecken (Hell)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 359,
+		"key": "oak_kitchen_sink_dark",
+		"name": "Eichenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 360,
+		"key": "spruce_kitchen_sink_dark",
+		"name": "Fichtenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 361,
+		"key": "birch_kitchen_sink_dark",
+		"name": "Birkenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 362,
+		"key": "jungle_kitchen_sink_dark",
+		"name": "Tropenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 363,
+		"key": "acacia_kitchen_sink_dark",
+		"name": "Akazienholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 364,
+		"key": "dark_oak_kitchen_sink_dark",
+		"name": "Schwarzeichenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 365,
+		"key": "stripped_oak_kitchen_sink_dark",
+		"name": "Entrindetes Eichenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 366,
+		"key": "stripped_spruce_kitchen_sink_dark",
+		"name": "Entrindetes Fichtenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 367,
+		"key": "stripped_birch_kitchen_sink_dark",
+		"name": "Entrindetes Birkenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 368,
+		"key": "stripped_jungle_kitchen_sink_dark",
+		"name": "Entrindetes Tropenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 369,
+		"key": "stripped_acacia_kitchen_sink_dark",
+		"name": "Entrindetes Akazienholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 370,
+		"key": "stripped_dark_oak_kitchen_sink_dark",
+		"name": "Entrindetes Schwarzeichenholz-Spülbecken (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": true
+			}
+		}
+	},
+	{
+		"id": 371,
+		"key": "white_kitchen_sink",
+		"name": "Weißes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 372,
+		"key": "orange_kitchen_sink",
+		"name": "Oranges Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 373,
+		"key": "magenta_kitchen_sink",
+		"name": "Magenta Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 374,
+		"key": "light_blue_kitchen_sink",
+		"name": "Hellblaues Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 375,
+		"key": "yellow_kitchen_sink",
+		"name": "Gelbes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 376,
+		"key": "lime_kitchen_sink",
+		"name": "Hellgrünes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 377,
+		"key": "pink_kitchen_sink",
+		"name": "Rosanes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 378,
+		"key": "gray_kitchen_sink",
+		"name": "Graues Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 379,
+		"key": "light_gray_kitchen_sink",
+		"name": "Hellgraues Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 380,
+		"key": "cyan_kitchen_sink",
+		"name": "Türkises Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 381,
+		"key": "purple_kitchen_sink",
+		"name": "Violettes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 382,
+		"key": "blue_kitchen_sink",
+		"name": "Blaues Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 383,
+		"key": "brown_kitchen_sink",
+		"name": "Braunes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 384,
+		"key": "green_kitchen_sink",
+		"name": "Grünes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 385,
+		"key": "red_kitchen_sink",
+		"name": "Rotes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 386,
+		"key": "black_kitchen_sink",
+		"name": "Schwarzes Spülbecken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"bigSink": false
+			}
+		}
+	},
+	{
+		"id": 387,
+		"key": "fridge_light",
+		"versionBlockClass": "FridgeVersionBlock",
+		"name": "Kühlschrank (Hell)",
+		"blockClass": "multi.FridgeBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"hardness": "IRON_BLOCK",
+			"soundType": "METAL",
+			"data": {
+				"openable": true,
+				"freezer": "freezer_light"
+			}
+		}
+	},
+	{
+		"id": 388,
+		"key": "freezer_light",
+		"versionBlockClass": "FreezerVersionBlock",
+		"name": "Gefrierschrank (Hell)",
+		"blockClass": "multi.FreezerBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"hardness": "IRON_BLOCK",
+			"soundType": "METAL",
+			"data": {
+				"openable": true,
+				"fridge": "fridge_light"
+			}
+		}
+	},
+	{
+		"id": 389,
+		"key": "fridge_dark",
+		"versionBlockClass": "FridgeVersionBlock",
+		"name": "Kühlschrank (Dunkel)",
+		"blockClass": "multi.FridgeBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"hardness": "IRON_BLOCK",
+			"soundType": "METAL",
+			"data": {
+				"openable": true,
+				"freezer": "freezer_dark"
+			}
+		}
+	},
+	{
+		"id": 390,
+		"key": "freezer_dark",
+		"versionBlockClass": "FreezerVersionBlock",
+		"name": "Gefrierschrank (Dunkel)",
+		"blockClass": "multi.FreezerBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"hardness": "IRON_BLOCK",
+			"soundType": "METAL",
+			"data": {
+				"openable": true,
+				"fridge": "fridge_dark"
+			}
+		}
+	},
+	{
+		"id": 391,
+		"key": "elevator",
+		"name": "Aufzug",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": true
+			}
+		}
+	},
+	{
+		"id": 392,
+		"key": "golden_chest",
+		"name": "Goldene Truhe",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": true,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 393,
+		"key": "mystical_chest",
+		"name": "Mystische Truhe",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": true,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 394,
+		"key": "cooker_hood1",
+		"name": "Abzugshaube",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 395,
+		"key": "teapot",
+		"name": "Teekanne",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "GLASS",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 396,
+		"key": "barstool",
+		"name": "Barstuhl",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 397,
+		"key": "ancient_scale01",
+		"name": "Waage",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "GOLD",
+			"materialColor": "GOLD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 398,
+		"key": "luckyblock01",
+		"name": "LuckyBlock",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 399,
+		"key": "trashcan01",
+		"name": "Mülleimer",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 400,
+		"key": "gold_ingot01",
+		"name": "Goldbarren",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 401,
+		"key": "snowglobe01",
+		"name": "Schneekugel",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "GLASS",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 402,
+		"key": "blender01_cyan",
+		"name": "Türkiser Mixer",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 403,
+		"key": "blender01_lime",
+		"name": "Grüner Mixer",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 404,
+		"key": "blender01_red",
+		"name": "Roter Mixer",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 405,
+		"key": "blender01_yellow",
+		"name": "Gelber Mixer",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 406,
+		"key": "drumset01",
+		"name": "Schlagzeug",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 407,
+		"key": "drumset02",
+		"name": "Drums",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 408,
+		"key": "washbasin01",
+		"name": "Vogelbecken",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 409,
+		"key": "knitters01",
+		"name": "Holzleiter",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false,
+				"climbable": true
+			}
+		}
+	},
+	{
+		"id": 410,
+		"key": "phone01",
+		"name": "Telefon",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 411,
+		"key": "skeleton_candle01",
+		"name": "Skelettkopf-Kerze",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 412,
+		"key": "ventilator01",
+		"name": "Ventilator",
+		"blockClass": "type.ActivatableOnlyBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 413,
+		"key": "xbox01",
+		"name": "Xbox One",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 414,
+		"key": "xbox02",
+		"name": "Xbox Series X",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 415,
+		"key": "playstation01",
+		"name": "PlayStation 4",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 416,
+		"key": "playstation02",
+		"name": "PlayStation 5",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 417,
+		"key": "radio01",
+		"name": "Radio",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 418,
+		"key": "rubberduck01",
+		"name": "Quietscheentchen",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 419,
+		"key": "bicycle01",
+		"name": "Fahrrad",
+		"blockClass": "type.DoubleBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 420,
+		"key": "gaming_pc01",
+		"name": "Weißer Gaming-PC",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 421,
+		"key": "gaming_pc02",
+		"name": "Schwarzer Gaming-PC",
+		"blockClass": "type.ActivatableBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 422,
+		"key": "gardengnome01",
+		"name": "Gartenzwerg",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "GLASS",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 423,
+		"key": "gargoyle01",
+		"name": "Gargoyle",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "STONE",
+			"soundType": "STONE",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 424,
+		"key": "security_cam01",
+		"name": "Sicherheitskamera",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 425,
+		"key": "trellis01",
+		"name": "Rankgitter",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true,
+				"climbable": true
+			}
+		}
+	},
+	{
+		"id": 426,
+		"key": "birds_cage01",
+		"name": "Vogelkäfig",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 427,
+		"key": "dog_basket01",
+		"name": "Hundekorb",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "CLOTH",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 428,
+		"key": "easteregg01",
+		"name": "Türkises Osterei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 429,
+		"key": "easteregg02",
+		"name": "Mattes Osterei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 430,
+		"key": "easteregg03",
+		"name": "Gelbes Osterei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 431,
+		"key": "easteregg04",
+		"name": "Weißes Osterei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 432,
+		"key": "easteregg05",
+		"name": "Rotes Osterei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 433,
+		"key": "firewood01_oak",
+		"name": "Feuerholzeiche",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 434,
+		"key": "firewood01_spruce",
+		"name": "Feuerholzfichte",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 435,
+		"key": "fish01",
+		"name": "Fischtrophäe",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 436,
+		"key": "flamingo01",
+		"name": "Flamingo-Schwimmring",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 437,
+		"key": "garden_tools_hanging_on_wall01",
+		"name": "Gartenwerkzeuge an der Wand",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 438,
+		"key": "oven01",
+		"name": "Ofen",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": true,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 439,
+		"key": "wall_shelve01",
+		"name": "Wandschrank",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 440,
+		"key": "nes01",
+		"name": "NES",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 441,
+		"key": "flower01",
+		"name": "Rosa Blume",
+		"blockClass": "plants.PlantBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 442,
+		"key": "flower02",
+		"name": "Weiße Blume",
+		"blockClass": "plants.PlantHorizontalBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 443,
+		"key": "flower03",
+		"name": "Blaue Blume",
+		"blockClass": "plants.PlantHorizontalBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 444,
+		"key": "grass_block_purple01",
+		"versionBlockClass": "GrassVersionBlock",
+		"name": "Violetter Grasblock",
+		"blockClass": "plants.GrassBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "GRASS",
+			"soundType": "PLANT",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false,
+				"canSustainBush": true
+			}
+		}
+	},
+	{
+		"id": 445,
+		"key": "grass_block_pink01",
+		"versionBlockClass": "GrassVersionBlock",
+		"name": "Rosa Grasblock",
+		"blockClass": "plants.GrassBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "GRASS",
+			"soundType": "PLANT",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false,
+				"canSustainBush": true
+			}
+		}
+	},
+	{
+		"id": 446,
+		"key": "grass_block_blue01",
+		"versionBlockClass": "GrassVersionBlock",
+		"name": "Blauer Grasblock",
+		"blockClass": "plants.GrassBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "GRASS",
+			"soundType": "PLANT",
+			"fullCube": true,
+			"data": {
+				"cutout": false,
+				"canSustainBush": true
+			}
+		}
+	},
+	{
+		"id": 447,
+		"key": "grass_block_purple011",
+		"versionBlockClass": "GrassVersionBlock",
+		"name": "Violetter Grasblock 1",
+		"blockClass": "plants.GrassBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"hardness": "GRASS",
+			"soundType": "PLANT",
+			"fullCube": true,
+			"data": {
+				"cutout": false,
+				"canSustainBush": true
+			}
+		}
+	},
+	{
+		"id": 448,
+		"key": "grass_pink01",
+		"versionBlockClass": "TallGrassVersionBlock",
+		"name": "Rosa Gras",
+		"blockClass": "plants.TallGrassBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 449,
+		"key": "grass_purple01",
+		"versionBlockClass": "TallGrassVersionBlock",
+		"name": "Violettes Gras",
+		"blockClass": "plants.TallGrassBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 450,
+		"key": "green_log01",
+		"name": "Grünes Holz",
+		"blockClass": "plants.LogBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"hardness": "LOG",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 451,
+		"key": "green_planks01",
+		"name": "Grüne Holzbretter",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD_ORIGINAL",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 452,
+		"key": "laterne01",
+		"name": "Laterne",
+		"blockClass": "type.ActivatableOnlyBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 453,
+		"key": "melon01",
+		"name": "Rosa Melone",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 454,
+		"key": "dark_blue_mushroom01",
+		"name": "Dunkelblauer Pilz",
+		"blockClass": "plants.PlantBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 455,
+		"key": "pink_mushroom01",
+		"name": "Rosa Pilz",
+		"blockClass": "plants.PlantBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 456,
+		"key": "blue_mushroom01",
+		"name": "Hellblauer Pilz",
+		"blockClass": "plants.PlantBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 457,
+		"key": "purple_mushroom01",
+		"name": "Violetter Pilz",
+		"blockClass": "plants.PlantBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 458,
+		"key": "purple_leaves01",
+		"versionBlockClass": "LeavesVersionBlock",
+		"name": "Violettes Laub",
+		"blockClass": "plants.LeavesBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 459,
+		"key": "pink_leaves01",
+		"versionBlockClass": "LeavesVersionBlock",
+		"name": "Rosa Laub",
+		"blockClass": "plants.LeavesBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"waterlogged": false,
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 461,
+		"key": "blue_leaves01",
+		"versionBlockClass": "LeavesVersionBlock",
+		"name": "Blaues Laub",
+		"blockClass": "plants.LeavesBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 462,
+		"key": "purple_mushroom_block01",
+		"name": "Violetter Pilzblock",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 463,
+		"key": "pumpkin01",
+		"name": "Blaue Melone",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "ADOBE",
+			"soundType": "WOOD",
+			"fullCube": true,
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 464,
+		"key": "ranken01",
+		"name": "Violette Ranken",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "LEAVES",
+			"hardness": "LEAVES",
+			"soundType": "PLANT",
+			"data": {
+				"climbable": true,
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 466,
+		"key": "trapdoor01",
+		"name": "Grüne Falltür",
+		"blockClass": "general.TrapDoorBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"trapDoor": true,
+				"waterlogged": true,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 467,
+		"key": "green_stairs01",
+		"name": "Grüne Holztreppe",
+		"blockClass": "general.StairsBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 468,
+		"key": "skateboard01",
+		"name": "Skateboard",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 469,
+		"key": "bedside_table01",
+		"name": "Holznachttisch",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false
+			}
+		}
+	},
+	{
+		"id": 470,
+		"key": "bedside_table02",
+		"name": "Holznachttisch (Dunkel)",
+		"blockClass": "type.DefaultHorizontalBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"waterlogged": false,
+				"openable": true
+			}
+		}
+	},
+	{
+		"id": 471,
+		"key": "television01",
+		"name": "Fernseher",
+		"blockClass": "type.DoubleBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"waterlogged": false,
+				"cutout": false
+			}
+		}
+	},
+	{
+		"id": 482,
+		"key": "blue_sapling01",
+		"versionBlockClass": "SaplingVersionBlock",
+		"name": "Blauer Setzling",
+		"blockClass": "plants.SaplingBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 483,
+		"key": "purple_sapling01",
+		"versionBlockClass": "SaplingVersionBlock",
+		"name": "Violetter Setzling",
+		"blockClass": "plants.SaplingBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 484,
+		"key": "pink_sapling01",
+		"versionBlockClass": "SaplingVersionBlock",
+		"name": "Rosa Setzling",
+		"blockClass": "plants.SaplingBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 485,
+		"key": "grass_blue01",
+		"versionBlockClass": "TallGrassVersionBlock",
+		"name": "Blaues Gras",
+		"blockClass": "plants.TallGrassBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 486,
+		"key": "plant_blue01",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Blaue Pflanze 1",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 487,
+		"key": "plant_blue02",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Blaue Pflanze 2",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 488,
+		"key": "plant_blue03",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Blaue Pflanze 3",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 489,
+		"key": "plant_blue04",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Blaue Pflanze 4",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 490,
+		"key": "plant_purple01",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Violette Pflanze 1",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 491,
+		"key": "plant_purple02",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Violette Pflanze 2",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 492,
+		"key": "plant_purple03",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Violette Pflanze 3",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 493,
+		"key": "plant_purple04",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Violette Pflanze 4",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 494,
+		"key": "plant_pink01",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Rosa Pflanze 1",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 495,
+		"key": "plant_pink02",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Rosa Pflanze 2",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 496,
+		"key": "plant_pink03",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Rosa Pflanze 3",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 497,
+		"key": "plant_pink04",
+		"versionBlockClass": "BushVersionBlock",
+		"name": "Rosa Pflanze 4",
+		"blockClass": "plants.BushBlock",
+		"properties": {
+			"material": "LEAVES",
+			"materialColor": "LEAVES",
+			"hardness": "PLANT",
+			"soundType": "PLANT",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 498,
+		"key": "sea_lantern_blue01",
+		"name": "Blaue Seelaterne",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"hardness": "SEA_LANTERN",
+			"materialColor": "QUARTZ",
+			"soundType": "GLASS",
+			"data": {
+				"cutout": false,
+				"lightlevel": 1
+			}
+		}
+	},
+	{
+		"id": 499,
+		"key": "sea_lantern_purple01",
+		"name": "Violette Seelaterne",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "QUARTZ",
+			"hardness": "SEA_LANTERN",
+			"soundType": "GLASS",
+			"data": {
+				"cutout": false,
+				"lightlevel": 1
+			}
+		}
+	},
+	{
+		"id": 500,
+		"key": "sea_lantern_pink01",
+		"name": "Rosa Seelaterne",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "WOOD",
+			"materialColor": "QUARTZ",
+			"hardness": "SEA_LANTERN",
+			"soundType": "GLASS",
+			"data": {
+				"cutout": false,
+				"lightlevel": 1
+			}
+		}
+	},
+	{
+		"id": 504,
+		"key": "dragon_egg_diamond01",
+		"name": "Diamant-Drachenei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"cutout": false
+			}
+		}
+	},
+	{
+		"id": 505,
+		"key": "dragon_egg_magma01",
+		"name": "Magma-Drachenei",
+		"blockClass": "type.DefaultBlock",
+		"properties": {
+			"material": "STONE",
+			"materialColor": "WOOD",
+			"soundType": "METAL",
+			"data": {
+				"cutout": false
+			}
+		}
+	},
+	{
+		"id": 506,
+		"key": "teleporter",
+		"name": "Teleporter",
+		"blockClass": "type.ActivatableOnlyBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "IRON",
+			"soundType": "METAL",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 507,
+		"key": "portalgun",
+		"name": "Portal-Gun",
+		"blockClass": "type.ItemOnlyBlock",
+		"properties": {
+			"material": "IRON",
+			"materialColor": "WOOD",
+			"soundType": "WOOD",
+			"data": {
+				"cutout": true
+			}
+		}
+	},
+	{
+		"id": 508,
+		"key": "beacon01_orange",
+		"versionBlockClass": "BeaconVersionBlock",
+		"name": "Oranges Leuchtfeuer",
+		"blockClass": "beacon.BeaconBlock",
+		"properties": {
+			"material": "GLASS",
+			"materialColor": "DIAMOND",
+			"soundType": "STONE",
+			"data": {
+				"cutout": true,
+				"lightlevel": 1,
+				"beaconColor": "orange"
+			}
+		}
+	},
+	{
+		"id": 509,
+		"key": "beacon01_black",
+		"versionBlockClass": "BeaconVersionBlock",
+		"name": "Schwarzes Leuchtfeuer",
+		"blockClass": "beacon.BeaconBlock",
+		"properties": {
+			"material": "GLASS",
+			"materialColor": "DIAMOND",
+			"soundType": "STONE",
+			"data": {
+				"cutout": true,
+				"lightlevel": 1,
+				"beaconColor": "black"
+			}
+		}
+	},
+	{
+		"id": 510,
+		"key": "beacon01_purple",
+		"versionBlockClass": "BeaconVersionBlock",
+		"name": "Violettes Leuchtfeuer",
+		"blockClass": "beacon.BeaconBlock",
+		"properties": {
+			"material": "GLASS",
+			"materialColor": "DIAMOND",
+			"soundType": "STONE",
+			"data": {
+				"cutout": true,
+				"lightlevel": 1,
+				"beaconColor": "purple"
+			}
+		}
+	}
+]

@@ -1,0 +1,70 @@
+buildscript {
+    repositories {
+        maven { url = 'https://files.minecraftforge.net/maven' }
+        maven { url = 'https://repo.spongepowered.org/maven' }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:6.+'
+        classpath 'org.spongepowered:mixingradle:0.7-SNAPSHOT'
+    }
+}
+
+apply plugin: 'net.minecraftforge.gradle'
+apply plugin: 'org.spongepowered.mixin'
+apply plugin: 'idea'
+
+sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+
+mixin {
+    disableRefMapWarning = true
+    defaultObfuscationEnv 'searge'
+    add sourceSets.main, 'cb.mixins.refmap.json'
+}
+
+minecraft {
+    mappings channel: 'snapshot', version: '20180814-1.12'
+
+    runs {
+        client {
+            workingDirectory project.file('run')
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+            property 'forge.logging.console.level', 'debug'
+
+        }
+
+        server {
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+            property 'forge.logging.console.level', 'debug'
+        }
+    }
+}
+
+repositories {
+    maven { url = 'https://repo.spongepowered.org/maven' }
+}
+
+configurations {
+    embed
+    compile.extendsFrom(embed)
+}
+
+dependencies {
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
+    minecraft "net.minecraftforge:forge:1.12.2-14.23.5.2860"
+
+    implementation 'com.google.code.gson:gson:2.7'
+    implementation 'org.spongepowered:mixin:0.7.11-SNAPSHOT'
+}
+
+compileJava.options.encoding = "UTF-8"
+
+
+jar {
+    manifest {
+        attributes "FMLCorePlugin": "me.zer0pxl.cb.Plugin"
+        attributes "FMLCorePluginContainsFMLMod": "true"
+    }
+}
+
+jar.finalizedBy('reobfJar')

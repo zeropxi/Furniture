@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/leaves","textures":{"all":"cb:block/pink_leaves01"},"display":{"gui":{"rotation":[30,225,0],"scale":[0.625,0.625,0.625],"translation":[0,0,0]}}}

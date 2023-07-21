@@ -1,0 +1,1 @@
+{"parent":"cb:block/desk_cabinet_single_open","textures":{"top":"minecraft:blocks/log_birch","base":"minecraft:blocks/planks_birch","draw":"cb:new_blocks/stripped_birch_log","draw_front":"minecraft:blocks/log_birch","legs":"minecraft:blocks/planks_birch"}}

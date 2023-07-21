@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube_column","textures":{"end":"cb:block/green_log_top01","side":"cb:block/green_log_side01"},"display":{"gui":{"rotation":[30,225,0],"scale":[0.625,0.625,0.625],"translation":[0,0,0]}}}

@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"cb:post_box","y":0},"facing=east":{"model":"cb:post_box","y":90},"facing=south":{"model":"cb:post_box","y":180},"facing=west":{"model":"cb:post_box","y":270}}}

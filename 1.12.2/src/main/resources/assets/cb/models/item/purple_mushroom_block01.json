@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube_all","textures":{"all":"cb:block/purple_mushroom_block01"},"display":{"gui":{"rotation":[30,225,0],"scale":[0.625,0.625,0.625],"translation":[0,0,0]}}}

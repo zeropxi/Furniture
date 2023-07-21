@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"cb:simple_chair","y":0},"facing=east":{"model":"cb:simple_chair","y":90},"facing=south":{"model":"cb:simple_chair","y":180},"facing=west":{"model":"cb:simple_chair","y":270}}}

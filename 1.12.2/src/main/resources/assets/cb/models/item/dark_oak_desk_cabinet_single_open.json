@@ -1,0 +1,1 @@
+{"parent":"cb:block/desk_cabinet_single_open","textures":{"top":"minecraft:blocks/log_big_oak","base":"minecraft:blocks/planks_big_oak","draw":"cb:new_blocks/stripped_dark_oak_log","draw_front":"minecraft:blocks/log_big_oak","legs":"minecraft:blocks/planks_big_oak"}}

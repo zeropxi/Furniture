@@ -1,0 +1,1 @@
+{"parent":"cb:block/bedside_cabinet_open","textures":{"base":"minecraft:blocks/planks_oak","top":"minecraft:blocks/log_oak","draw":"cb:new_blocks/stripped_oak_log","draw_front":"minecraft:blocks/log_oak"}}

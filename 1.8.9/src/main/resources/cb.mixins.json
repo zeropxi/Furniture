@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "package": "me.zer0pxl.cb.asm.mixins",
+  "refmap": "cb.mixins.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "mixins": [
+    "MixinBeaconTileEntity",
+    "MixinEntityLivingBase",
+    "MixinModList",
+    "MixinStringTranslate",
+    "MixinWalkNodeProcessor",
+    "MixinWorld",
+    "block.MixinBlock",
+    "block.MixinBlockBush",
+    "block.MixinBlockPistonBase"
+  ],
+  "client": [
+    "model.MixinForgeBlockModelRenderer",
+    "model.MixinModelBakery",
+    "model.MixinModelBlockDefinition",
+    "model.MixinModelBlockDefinitionDeserializer",
+    "model.MixinModelManager",
+    "model.MixinBlockModelRenderer",
+    "MixinRenderItem",
+    "MixinNetHandlerPlayClient"
+  ]
+}

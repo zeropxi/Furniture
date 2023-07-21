@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"cb:security_cam01","y":0},"facing=east":{"model":"cb:security_cam01","y":90},"facing=south":{"model":"cb:security_cam01","y":180},"facing=west":{"model":"cb:security_cam01","y":270}}}

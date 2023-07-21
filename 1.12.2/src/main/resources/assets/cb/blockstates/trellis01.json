@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"cb:trellis02","y":0,"weight":5},"facing=east":{"model":"cb:trellis02","y":90,"weight":5},"facing=south":{"model":"cb:trellis02","y":180,"weight":5},"facing=west":{"model":"cb:trellis02","y":270,"weight":5}}}

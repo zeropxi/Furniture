@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"cb:door_mat","y":0},"facing=east":{"model":"cb:door_mat","y":90},"facing=south":{"model":"cb:door_mat","y":180},"facing=west":{"model":"cb:door_mat","y":270}}}
