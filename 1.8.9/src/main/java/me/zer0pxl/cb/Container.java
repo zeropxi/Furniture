@@ -26,6 +26,7 @@ public class Container extends DummyModContainer {
 		meta.url = "https://kurzelinks.de/moebel-url";
 		meta.logoFile = "assets/cb/icon.png";
 		meta.version = "1.0";
+		meta.credits = "Col-E for Recaf, MysteryMod / MrCrayfish for assets";
 		meta.authorList = ImmutableList.of("zer0pxl");
 	}
 
